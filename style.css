@@ -1,0 +1,26 @@
+.img{
+    width: 100px;
+}
+.buy-new-button{
+    background-image: linear-gradient(to bottom,#0d8d0d 0%,#217916 100%);
+    color:#fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+
+
+
+}
+.learn{
+    color: red;
+}
+.beauty{
+    color: green;
+}
+.orange-bg{
+   background-color:whitesmoke;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
